@@ -20,9 +20,9 @@
 	use Aws\S3\Exception\S3Exception;
 
 	// AWS Info
-	$bucketName = 'hw-bucket-1505';
-	$IAM_KEY = 'AKIAQIPDIXMJ4GCQLDNO';
-	$IAM_SECRET = '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';
+	$bucketName = '*******';
+	$IAM_KEY = '********';
+	$IAM_SECRET = '*******';
 
 	// Connect to AWS
 	try {
